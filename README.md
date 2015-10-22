@@ -12,7 +12,7 @@ CLOUD COMPUTING ADVANTAGES
 
 5) Secure, reliable, scalable
 
-git add ‘cloudlayers.txt’
+## Cloud computing stack
 
 SAAS(system as a service): availability of a specific software through the cloud
 
