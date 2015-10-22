@@ -1,6 +1,6 @@
 # Cloud_Doc
 
-Cloud computing advantages
+CLOUD COMPUTING ADVANTAGES
 
 1) Data center provided by network
 
