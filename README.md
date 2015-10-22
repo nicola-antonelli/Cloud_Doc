@@ -14,6 +14,8 @@ CLOUD COMPUTING ADVANTAGES
 
 ## Cloud computing stack
 
+![piramid](https://cloudcomputestackimage1.png)
+
 SAAS(system as a service): availability of a specific software through the cloud
 
 PAAS(platform as a service): availability of development softwares
