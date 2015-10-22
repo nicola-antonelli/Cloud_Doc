@@ -12,4 +12,11 @@ CLOUD COMPUTING ADVANTAGES
 
 5) Secure, reliable, scalable
 
+git add ‘cloudlayers.txt’
+
+SAAS(system as a service): availability of a specific software through the cloud
+
+PAAS(platform as a service): availability of development softwares
+
+IAAS(infrastructure as a service): availability of CPU + hardware through the cloud
 
