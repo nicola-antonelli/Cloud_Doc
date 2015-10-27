@@ -6,7 +6,7 @@ CLOUD COMPUTING ADVANTAGES
 
 2) You pay just what you use
 
-3) Bottleneck: many computers to satisfy the need of data
+3) No Bottleneck: many computers to satisfy the need of data
 
 4) Support - expertise - paid for as a service
 
